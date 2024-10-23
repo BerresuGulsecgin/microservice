@@ -1,0 +1,13 @@
+
+
+dependencies {
+    implementation libs.springBootDataMongoDB
+    implementation libs.springBootAmqp
+    implementation libs.springBootDataRedis
+    implementation libs.springBootSecurity
+
+}
+
+
+
+
